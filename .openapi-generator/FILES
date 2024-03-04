@@ -1,5 +1,4 @@
 .gitignore
-.openapi-generator-ignore
 .php-cs-fixer.dist.php
 .travis.yml
 README.md
@@ -40,11 +39,14 @@ docs/Model/ProductlistSearchProductListsByIdsRequest.md
 docs/Model/ProductlistSearchProductListsByIdsResponse.md
 docs/Model/ProductlistSearchProductListsRequest.md
 docs/Model/ProductlistSearchProductListsResponse.md
+docs/Model/ProductlistSetProductListAssociationsRequest.md
+docs/Model/ProductlistSetProductListAssociationsResponse.md
 docs/Model/ProductlistUpdateProductListRequest.md
 docs/Model/ProductlistUpdateProductListResponse.md
 docs/Model/ProtobufAny.md
 docs/Model/RpcStatus.md
 docs/Model/SearchProductListsRequestQuery.md
+docs/Model/SetProductListAssociationsRequestAssociation.md
 git_push.sh
 lib/Api/ProductListApi.php
 lib/ApiException.php
@@ -86,11 +88,14 @@ lib/Model/ProductlistSearchProductListsByIdsRequest.php
 lib/Model/ProductlistSearchProductListsByIdsResponse.php
 lib/Model/ProductlistSearchProductListsRequest.php
 lib/Model/ProductlistSearchProductListsResponse.php
+lib/Model/ProductlistSetProductListAssociationsRequest.php
+lib/Model/ProductlistSetProductListAssociationsResponse.php
 lib/Model/ProductlistUpdateProductListRequest.php
 lib/Model/ProductlistUpdateProductListResponse.php
 lib/Model/ProtobufAny.php
 lib/Model/RpcStatus.php
 lib/Model/SearchProductListsRequestQuery.php
+lib/Model/SetProductListAssociationsRequestAssociation.php
 lib/ObjectSerializer.php
 phpunit.xml.dist
 test/Api/ProductListApiTest.php
@@ -129,8 +134,11 @@ test/Model/ProductlistSearchProductListsByIdsRequestTest.php
 test/Model/ProductlistSearchProductListsByIdsResponseTest.php
 test/Model/ProductlistSearchProductListsRequestTest.php
 test/Model/ProductlistSearchProductListsResponseTest.php
+test/Model/ProductlistSetProductListAssociationsRequestTest.php
+test/Model/ProductlistSetProductListAssociationsResponseTest.php
 test/Model/ProductlistUpdateProductListRequestTest.php
 test/Model/ProductlistUpdateProductListResponseTest.php
 test/Model/ProtobufAnyTest.php
 test/Model/RpcStatusTest.php
 test/Model/SearchProductListsRequestQueryTest.php
+test/Model/SetProductListAssociationsRequestAssociationTest.php
