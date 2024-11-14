@@ -6,8 +6,8 @@
 
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**association**| [**\GeminiCommerce\ProductList\Model\ProductlistProductListAssociation**](ProductlistProductListAssociation.md) |   | [optional]
-**errors**| [**\GeminiCommerce\ProductList\Model\ProductlistProductListAssociationError[]**](ProductlistProductListAssociationError.md) |   | [optional]
+**association**| [**\OpenAPI\Client\Model\ProductlistProductListAssociation**](ProductlistProductListAssociation.md) |   | [optional]
+**errors**| [**\OpenAPI\Client\Model\ProductlistProductListAssociationError[]**](ProductlistProductListAssociationError.md) |   | [optional]
 
 
 [[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

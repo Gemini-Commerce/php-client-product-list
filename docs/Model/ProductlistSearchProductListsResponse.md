@@ -6,7 +6,7 @@
 
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**results**| [**\GeminiCommerce\ProductList\Model\ProductlistProductListEntity[]**](ProductlistProductListEntity.md) |   | [optional]
+**results**| [**\OpenAPI\Client\Model\ProductlistProductListEntity[]**](ProductlistProductListEntity.md) |   | [optional]
 **total_size**| **int** |   | [optional]
 
 

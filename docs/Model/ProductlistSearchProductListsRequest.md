@@ -7,7 +7,7 @@
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **tenant_id**| **string** |   | [optional]
-**query**| [**\GeminiCommerce\ProductList\Model\SearchProductListsRequestQuery**](SearchProductListsRequestQuery.md) |   | [optional]
+**query**| [**\OpenAPI\Client\Model\SearchProductListsRequestQuery**](SearchProductListsRequestQuery.md) |   | [optional]
 **page_size**| **int** |   | [optional]
 **page_number**| **int** |   | [optional]
 
